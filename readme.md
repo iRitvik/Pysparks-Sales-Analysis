@@ -21,6 +21,8 @@ This project analyzes sales data to uncover key trends in customer spending, pro
 
 This project demonstrates how PySpark can be used to extract valuable insights from restaurant sales data, helping to optimize operations and boost profitability.
 
+**Published Notebook**: [Python Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/334915457384612/420602223949636/6006479486887151/latest.html)
+
 **Dashboard**: [Databricks Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/334915457384612/420602223949520/6006479486887151/latest.html)
 
 **Follow me on LinkedIn**: [Ritvik Rana](https://www.linkedin.com/in/ritvik-rana/)
