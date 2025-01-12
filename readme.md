@@ -1,4 +1,4 @@
-    # Restaurant Sales Analysis Project
+# Restaurant Sales Analysis Project
 
 Welcome to the Restaurant Sales Analysis project! This project provides an analysis of restaurant sales data using PySpark, highlighting trends and insights to drive business success.
 
